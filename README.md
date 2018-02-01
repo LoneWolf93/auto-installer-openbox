@@ -14,4 +14,4 @@ step 1: cd Downloads/auto-installer-openbox
 
 step 2: tar -xvf lonewolf-installer-v1.tar.gz
 
-step 3: run the script with -> ./install
+step 3: run the script with -> ./install.sh
