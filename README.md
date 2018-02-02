@@ -10,7 +10,7 @@ You only type in your Terminal git clone https://github.com/LoneWolf93/auto-inst
 
 Steps:
 
-step 1: cd Downloads/auto-installer-openbox
+step 1: cd auto-installer-openbox
 
 step 2: tar -xvf lonewolf-installer-v1.tar.gz
 
